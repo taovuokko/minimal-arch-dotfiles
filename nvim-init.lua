@@ -1,0 +1,1 @@
+/home/tv/.config/nvim/init.lua
